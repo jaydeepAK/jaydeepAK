@@ -18,3 +18,16 @@ Here are some ideas to get you started:
 [![technorada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydeepAK)](https://github.com/anuraghazra/github-readme-stats&theme=slateorange)
 
 ![](https://img.shields.io/badge/hacker-😊-orange)
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/technorada1
