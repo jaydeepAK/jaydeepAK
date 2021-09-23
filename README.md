@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![technorada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydeepAK)](https://github.com/anuraghazra/github-readme-stats&theme=slateorange)
 
-https://img.shields.io/badge/hacker-😊-orange
+![](https://img.shields.io/badge/hacker-😊-orange)
